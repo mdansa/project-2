@@ -1,0 +1,592 @@
+/* XL Device :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+    .container{
+        width:1140px;
+    }
+
+}
+
+/* LG Device :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+    .container{
+        width:960px;
+    }
+    h3 {
+        font-size: 26px;
+    }
+    .full-menu   .menu-area ul li {
+        padding-left: 20px;
+    }
+    .full-menu  .menu-area ul li a {
+        padding: 25px 0;
+        font-size: 16px;
+    }
+    .full-menu   .menu-area ul li .submenu {
+        width: 170px;
+    }
+    .full-menu  .menu-area ul li {
+        padding-left: 25px;
+    }
+    .bener-area .bener-text h1 {
+        line-height: 75px;
+        font-size: 60px;
+    }
+    .bener-area .bener-text {
+        padding-top: 160px;
+    }
+    .theme-area {
+        padding: 50px 0;
+    }
+    .theme-title h2 {
+        font-size: 35px;
+        line-height: 45px;
+    }
+    .skills-area {
+        padding: 50px 0;
+    }
+    .video-wrapper{
+        padding: 100px 0;
+    }
+    .video-area a {
+        font-size: 60px;
+    }
+    .video-area .icon {
+        padding-bottom: 0px;
+    }
+    .video-area h3 {
+      padding: 0 40px;
+      margin: 0;
+      line-height: 40px;
+    }
+    .single-count .icon {
+        padding-right: 10px;
+    }
+    .counter-area {
+        padding: 50px 0;
+    }
+    .counter-area .single-count .count span {
+        font-size: 50px;
+    }
+    .counter-area .single-count .count h4 {
+        font-size: 20px;
+    }
+    .boost-area {
+        padding: 50px 0;
+    }
+   .boost-area img{
+       width: 100%;
+   }
+   .boost-area .boost-dtl h3 {
+    margin: 15px 0;
+}
+.boost-area .boost-dtl li {
+    padding: 5px 0;
+}
+.event-start .title span {
+    color: #cb2d62;
+}
+.event-start .title {
+    margin-bottom: 50px;
+}
+.event-start .title h2 {
+    font-size: 45px;
+    margin-top: 20px;
+}
+.event-start .event-text h2 {
+    margin-top: 0px;
+}
+h2 {
+    font-size: 30px;
+    line-height: 40px;
+}
+.event-start .button {
+    margin: 50px 0;
+}
+.pricing-area .title {
+    padding: 30px 0;
+}
+.pricing-area .title h2 {
+    font-size: 45px;
+}
+.pricing-area .single-price {
+    padding: 55px 25px;
+}
+.form-area {
+    padding: 50px 0;
+}
+.form-area .form-titl h3 {
+    line-height: 40px;
+}
+.grop-area {
+    padding: 50px 0;
+}
+
+.full-menu .menu-area ul li .submenu .submenu {
+	left: 100%;
+}
+
+
+
+
+
+
+}
+
+ 
+/* MD Device :768px. */
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .container{
+        width:720px;
+    }
+    .btn {
+        font-size: 12px;
+        padding: 15px 30px;
+    }
+    h4{
+        font-size: 20px;
+    }
+    h3 {
+        font-size: 30px;
+    }
+    .topbar-area a {
+        padding-left: 30px;
+    }
+
+    a.meanmenu-reveal {
+        position: absolute;
+        margin-top: -35px;
+    }
+    .full-menu {
+        height: 60px;
+    }
+    .full-menu .logo {
+        margin-top: 10px;
+    }
+    .full-menu .menu-area ul li a {
+        padding: 15px 0;
+        font-size: 17px;
+    }
+    .full-menu  .menu-area ul li {
+        padding-left: 0px;
+    }
+    .full-menu .menu-area ul li .submenu {
+        background: black;
+    }
+    .bener-area .bener-text {
+        padding-top: 50px;
+    }
+    .bener-area .bener-text h1 {
+        line-height: 50px;
+        font-size: 40px;
+    }
+    .bener-area .bener-text p {
+        font-size: 16px;
+    }
+    .bener-area .bener-text .btn {
+        margin-top: 20px;
+    }
+    .bener-area .bener-img {
+        padding-top: 50px;
+    }
+    .bener-bg {
+        height: 600px;
+    }
+    .theme-area {
+        padding: 50px 0;
+    }
+    .theme-title h2 {
+        font-size: 25px;
+        line-height: 35px;
+    }
+    .theme-area .item {
+        padding: 15px;
+        margin-top: 25px;
+    }
+    .theme-area .item h4 {
+        padding-top: 20px;
+    }
+    .theme-area .item p {
+        padding-top: 5px;
+        line-height: 20px;
+    }
+    .theme-area .btn {
+        margin-top: 20px;
+    }
+    .skills-area {
+        padding: 50px 0;
+    }
+    .skills-area .info h3 {
+        padding-bottom: 10px;
+    }
+   .skills h3{
+       margin-top: 30px;
+   }
+    .video-wrapper{
+        padding-top: 100px;
+        padding-bottom: 100px;
+    }   
+    .video-area a {
+        font-size: 50px;
+    }
+    .video-area .icon {
+        padding-bottom: 0px;
+    }
+    .video-area h3 {
+        margin-top: 10px;
+        line-height: 35px;
+    }
+    .counter-area {
+        padding: 50px 0;
+    }
+    .boost-area {
+        padding: 50px 0;
+    }
+    .boost-area .boost-dtl h3 {
+        margin: 25px 0;
+    }
+    .event-start .title h2 {
+        font-size: 45px;
+        margin-top: 15px;
+    }
+    .event-start .title {
+        margin-bottom: 50px;
+    }
+    .event-start .button {
+        margin: 30px 0;
+    }
+    .pricing-area .title {
+        padding: 25px 0;
+    }
+    .pricing-area .title h2 {
+        font-size: 50px;
+    }
+    .pricing-area .single-price {
+        margin: 10px 130px;
+    }
+    .imply-area .single-item {
+        width: 25%;
+    }
+    .form-area {
+        background: none;
+        padding: 50px 0;
+    }
+    .footer-area .full-footer {
+        padding: 25px 0;
+    }
+
+
+    .offset-4 {
+        margin-left: 0;
+    }
+  
+
+
+}
+
+ 
+/* Extra small Device. */
+@media (max-width: 767px) {
+    .btn {
+        font-size: 10px;
+        padding: 12px 18px;
+    }  
+  .full-menu .menu-area ul li .submenu {
+        background: #000;
+    }    
+    h2 {
+        font-size: 20px;
+        line-height: 30px;
+    }
+    h3 {
+        font-size: 26px;
+        line-height: 30px;
+    }
+    h4 {
+        font-size: 18px;
+    }
+    .offset-1 {
+        margin-left: 0;
+    }
+    .offset-2 {
+        margin-left: 0;
+    }
+    .offset-3 {
+        margin-left: 0;
+    }
+    .offset-4 {
+        margin-left: 0;
+    }
+    .logo img {
+        width: 100px;
+    }
+    .bener-area .bener-text h1 {
+        line-height: 40px;
+        font-size: 32px;
+    }
+    .topbar-area a {
+        font-size: 10px;padding-left: 10px;
+    }
+    .bener-area .bener-text p {
+        font-size: 15px;
+        line-height: 20px;
+    }
+    .bener-area .bener-text .btn {
+        margin-top: 15px;
+    }
+    .bener-area .bener-text {
+        padding-top: 100px;
+    }
+    .bener-area .bener-img {
+        padding-top: 10px;
+        width: 100%;
+    }
+    .bener-bg {
+        height: 700px;
+    }
+    .full-menu .menu-area ul li a {
+        padding: 10px 0;
+        font-size: 12px;
+    }
+    .full-menu .menu-area ul li {
+        padding-left: 0px;
+    }
+    .mean-container .mean-nav {
+        width: 100px;
+    }
+    element {
+        font-size: 12px;
+    }
+    .mean-container .mean-nav ul li a.mean-expand {
+        width: 16px;
+        height: 16px;
+        line-height: 1;
+    }
+    .full-menu .menu-area ul li .submenu a {
+        padding: 10px 0;
+        text-align: center;
+    }
+    .full-menu .menu-area ul li .submenu li {
+        padding-left: 0px;
+    }
+    .mean-container .mean-nav ul li a{
+        background: black;
+    }
+    .full-menu .menu-area ul li .submenu {
+        width: 100px;
+    }
+    .mean-container .mean-nav ul li a.mean-expand {
+        right: 0%;
+    }
+    .theme-area {
+        padding: 50px 0;
+    }
+    .theme-area .item {
+        margin-top: 25px;
+    }
+    .theme-area .item h4 {
+        padding-top: 10px;
+    }
+    .theme-area .item p {
+        padding-top: 10px;
+        line-height: 20px;
+    }
+    .theme-area .btn {
+        margin-top: 20px;
+    }
+    .skills-area {
+        padding:0;
+    }
+    .skills-area .info h3 {
+        padding-bottom: 15px;
+    }
+    .skills-area .info p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .skills-area .info .senather img {
+        margin-right: 10px;
+    }
+    .skills-area .col-xl-6 {
+        padding-bottom: 20px;
+    }
+   .video-wrapper{
+       padding-top: 50px;
+       padding-bottom: 50px;
+    }
+    .video-area .icon {
+        padding-bottom: 0px;
+    }
+    .video-area a {
+        font-size: 40px;
+    }
+    .progress {
+        height: 10px;
+    }
+    .video-area h3 {
+        margin-top: 10px;
+        line-height: 32px;
+    }
+    .counter-area {
+        padding: 30px 0;
+    }
+    .counter-area .single-count {
+        padding:10px 0;
+    }
+    .counter-area .single-count .icon{
+        padding-right: 20px;
+    }
+    .counter-area .single-count .icon a {
+        font-size: 40px;
+    }
+    .counter-area .single-count .count span {
+        font-size: 40px;
+    }
+    .counter-area .single-count .count h4 {
+        font-size: 20px;
+    }
+    .boost-area {
+        padding: 30px 0;
+    }
+    .boost-area .boost-dtl h3 {
+        margin: 10px 0;
+    }
+    .boost-area .boost-dtl p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .boost-area .boost-dtl li {
+        padding: 5px 0;
+    }
+    .event-start .title h2 {
+        font-size: 26px;
+        margin-top: 10px;
+    }
+    .event-start .title {
+        margin-bottom: 30px;
+    }
+    .event-start .event-text {
+        padding: 40px;
+    }
+    .event-start .event-text h2 {
+        margin-top: 50px;
+    }
+    .event-start .event-text h5 {
+        font-size: 14px;
+        margin-top: 10px;
+    }
+    .event-start .button {
+        margin: 40px 0;
+    }
+    .pricing-area .title {
+        padding: 20px 0;
+    }
+    .pricing-area .title h2 {
+        font-size: 30px;
+    }
+    .pricing-area .single-price {
+        padding: 45px 40px;
+    }
+    .pricing-area .price span {
+        font-size: 60px;
+    }
+    .pricing-area .single-price p {
+        padding: 0px 0;
+        line-height: 20px;
+    }
+    .btn-black {
+        font-size: 12px;
+        padding: 12px 20px;
+    }
+    .single-price {
+        margin: 10px;
+    }
+    .imply-area .single-item {
+        width: 50%;
+    }
+    .imply-area .single-item .text {
+        transform: translateY(0);
+        top: 0;
+    }
+   
+    .form-area .form-titl h3 {
+        line-height: 35px;
+    }
+
+    .form-area {
+        padding: 20px 0;
+    }
+    .form-area .form-titl p {
+        font-size: 15px;
+        line-height: 20px;
+        margin-top: 5px;
+    }
+    .ttm-area ul.slick-dots li {
+        margin-left: 5px;
+    }
+    .ttm-area ul.slick-dots li button {
+        width: 5px;
+        height: 10px;
+    }
+
+    .bener-area .bener-text h1 {
+        margin-top: 120px;
+    }
+    .bener-area .bener-text h1 {
+        margin-top: 120px;
+    }
+    .bener-bg {
+        height: 800px;
+    }
+    .full-menu.sticky.scroll-header {
+        top: 0;
+    }
+    a#scrollUp {
+        font-size: 30px;
+    }
+}
+ 
+/* SM Small Device :550px. */
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+    .container{
+        width:540px;
+    }
+    .bener-bg {
+        height: 800px;
+    }
+    .bener-area .bener-text h1 {
+        margin-top:100px;
+    }
+    .bener-area .bener-img img {
+        width: 100%;
+        float: right;
+        margin-top: -80px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
